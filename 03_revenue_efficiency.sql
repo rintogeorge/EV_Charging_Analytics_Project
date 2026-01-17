@@ -1,0 +1,1 @@
+SELECT charger_type, SUM(revenue)/SUM(energy_kwh) AS revenue_per_kwh FROM charging_sessions_raw GROUP BY charger_type;

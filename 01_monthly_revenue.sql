@@ -1,0 +1,1 @@
+SELECT city, SUM(revenue) AS total_revenue FROM charging_sessions_raw GROUP BY city;

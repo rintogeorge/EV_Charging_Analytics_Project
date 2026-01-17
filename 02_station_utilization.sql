@@ -1,0 +1,1 @@
+SELECT station_id, COUNT(*) AS sessions FROM charging_sessions_raw GROUP BY station_id;
