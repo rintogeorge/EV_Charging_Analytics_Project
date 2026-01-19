@@ -160,3 +160,6 @@ This project demonstrates:
 - Ability to translate raw operational data into business insights
 - Hands-on experience with SQL, Excel, Power BI, and Tableau
 - Strong understanding of analytics workflows used in real organizations
+
+- <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/5e726eae-2a09-4189-80ec-6c7c9976e4d9" />
+
