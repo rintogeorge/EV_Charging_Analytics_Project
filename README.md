@@ -161,5 +161,11 @@ This project demonstrates:
 - Hands-on experience with SQL, Excel, Power BI, and Tableau
 - Strong understanding of analytics workflows used in real organizations
 
+## 🖼️ Screenshots
+EXECUTIVE SUMMARY
 - <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/5e726eae-2a09-4189-80ec-6c7c9976e4d9" />
+CITY & STATION PERFORMANCE
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/9cbb803d-7457-40b3-9938-cff4940da91e" />
+CHARGER EFFICIENCY
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/db8b05db-0acc-4c9d-8d67-ac0ca5ef3a0b" />
 
