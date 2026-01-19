@@ -143,3 +143,20 @@ Tableau was used for **visual storytelling and pattern identification**.
 
 ## 📂 Repository Structure
 
+EV_Charging_Analytics_Project
+│
+├── charging_sessions_raw.csv
+├── stations_dimension.csv
+├── date_dimension.csv
+├── EV_Charging_Analytics.xlsx
+│
+├── 01_monthly_revenue.sql
+├── 02_station_utilization.sql
+├── 03_revenue_efficiency.sql
+
+## 🚀 Outcome
+This project demonstrates:
+- End-to-end ownership of a data analytics problem
+- Ability to translate raw operational data into business insights
+- Hands-on experience with SQL, Excel, Power BI, and Tableau
+- Strong understanding of analytics workflows used in real organizations
