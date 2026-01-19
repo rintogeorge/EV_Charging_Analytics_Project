@@ -144,7 +144,7 @@ Tableau was used for **visual storytelling and pattern identification**.
 ## 📂 Repository Structure
 
 EV_Charging_Analytics_Project
-│
+
 ├── charging_sessions_raw.csv
 ├── stations_dimension.csv
 ├── date_dimension.csv
